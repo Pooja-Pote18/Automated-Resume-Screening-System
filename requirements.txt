@@ -1,0 +1,5 @@
+nltk
+PyMuPDF
+python-docx
+pandas
+numpy
