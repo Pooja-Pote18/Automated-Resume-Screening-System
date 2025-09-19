@@ -12,7 +12,7 @@ and generates an **ATS Score (%)** for ranking candidates.
 - Calculates **ATS Score (%)** based on JD matching
 - Ranks candidates & exports results to `CSV`
 
-
+⚙️ Tech Stack
 - Python 3.10+
 - NLTK (NLP processing)
 - PyMuPDF (PDF extraction)
