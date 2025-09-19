@@ -4,4 +4,3 @@ Automatic-Resume-Analysis/
 │-- ranked_candidates.csv  # Output file
 │-- README.md              # Documentation
 │-- resumes/               # Folder for resumes (PDF/DOCX)
-│-- jd/                    # Folder for job description file
