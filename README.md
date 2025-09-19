@@ -11,3 +11,11 @@ and generates an **ATS Score (%)** for ranking candidates.
 - Extracts keywords using **NLTK**
 - Calculates **ATS Score (%)** based on JD matching
 - Ranks candidates & exports results to `CSV`
+
+
+- Python 3.10+
+- NLTK (NLP processing)
+- PyMuPDF (PDF extraction)
+- python-docx (DOCX extraction)
+- Pandas, NumPy (data analysis)
+
